@@ -16,3 +16,9 @@ Improve Phone Number Capacity
 
 \- Increased the maximum student phone-number length from 20 to 25 characters.
 
+&#x20;Rename Student ID
+
+
+
+\- Renamed the student ID field from `id` to `studentId`.
+
