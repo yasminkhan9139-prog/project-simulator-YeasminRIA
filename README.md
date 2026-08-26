@@ -18,3 +18,15 @@ Student Management System is a simple project used to practice Git workflow mana
 
 **- CHANGELOG.md – History of project changes.**
 
+**## Team Members**
+
+
+
+**- Saima Islam Efty**
+
+**- Yeasmin Ria**
+
+**- A Q M Nafiz Iqbal**
+
+
+
