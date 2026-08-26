@@ -22,3 +22,9 @@ Improve Phone Number Capacity
 
 \- Renamed the student ID field from `id` to `studentId`.
 
+&#x20;Rename Student Name
+
+
+
+\- Renamed the student name field from `name` to `studentName`.
+
