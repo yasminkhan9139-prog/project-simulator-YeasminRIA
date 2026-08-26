@@ -10,3 +10,9 @@
 
 \- Increased the maximum student-address length from 100 to 200 characters.
 
+Improve Phone Number Capacity
+
+
+
+\- Increased the maximum student phone-number length from 20 to 25 characters.
+
