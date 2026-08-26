@@ -28,3 +28,35 @@ Improve Phone Number Capacity
 
 \- Renamed the student name field from `name` to `studentName`.
 
+\# Changelog
+
+
+
+\## Version 1.3
+
+\- Renamed student fields.
+
+\- Improved student name, address, and phone capacity.
+
+
+
+\## Version 1.2
+
+\- Added student contact information.
+
+\- Added student department, email, phone, and address.
+
+
+
+\## Version 1.1
+
+\- Added student academic information.
+
+\- Added student age, CGPA, semester, credit hours, and status.
+
+
+
+\## Version 1.0
+
+\- Initial Student structure created.
+
